@@ -1,0 +1,367 @@
+# Copyright (C) 2013 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Thirteen 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/twentythirteen\n"
+"POT-Creation-Date: 2013-02-14 18:13:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-02-20 01:32+0900\n"
+"Last-Translator: \n"
+"Language-Team: Odyssey from WordPress Japanse Translation Team <odysseygate"
+"+poedit@gmail.com>\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _n:1,2;__:1,2;_e:1,2\n"
+
+#: 404.php:16
+msgid "Not found"
+msgstr "見つかりません"
+
+#: 404.php:21
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "おっと、失礼しました。"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: archive.php:29
+msgid "Daily Archives: %s"
+msgstr "日別アーカイブ: %s"
+
+#: archive.php:31
+msgid "Monthly Archives: %s"
+msgstr "月別アーカイブ: %s"
+
+#: archive.php:31
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: archive.php:33
+msgid "Yearly Archives: %s"
+msgstr "年別アーカイブ: %s"
+
+#: archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: archive.php:35
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: author-bio.php:16
+msgid "About %s"
+msgstr "%s について"
+
+#: author-bio.php:20
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s の投稿をすべて表示 <span class=\"meta-nav\">&rarr;</span>"
+
+#: author.php:30
+msgid "All posts by %s"
+msgstr "%s のすべての投稿"
+
+#: category.php:19
+msgid "Category Archives: %s"
+msgstr "カテゴリー別アーカイブ: %s"
+
+#: comments.php:27
+#, fuzzy
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#: comments.php:41
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:42
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#: comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#: content-aside.php:13 content-audio.php:24 content-chat.php:23
+#: content-gallery.php:24 content-image.php:23 content-link.php:24
+#: content-quote.php:13 content-status.php:13 content-video.php:23
+#: content.php:39
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-aside.php:14 content-audio.php:25 content-chat.php:24
+#: content-gallery.php:25 content-image.php:24 content-link.php:25
+#: content-quote.php:14 content-status.php:14 content-video.php:24
+#: content.php:40 image.php:106 page.php:35
+msgid "Pages:"
+msgstr "ページ:"
+
+#: content-aside.php:20 content-aside.php:28 content-audio.php:31
+#: content-chat.php:29 content-gallery.php:39 content-image.php:35
+#: content-link.php:19 content-quote.php:25 content-status.php:23
+#: content-video.php:35 content.php:29 functions.php:339 functions.php:359
+#: image.php:77 page.php:39
+msgid "Edit"
+msgstr "編集"
+
+#: content-audio.php:17 content-chat.php:17 content-gallery.php:17
+#: content-image.php:17 content-video.php:17 content.php:23 functions.php:438
+msgid "Permalink to %s"
+msgstr "%s へのパーマリンク"
+
+#: content-gallery.php:36 content-image.php:32 content-quote.php:22
+#: content-video.php:32 content.php:47
+msgid "Leave a comment"
+msgstr "コメントをどうぞ"
+
+#: content-gallery.php:36 content-image.php:32 content-quote.php:22
+#: content-video.php:32 content.php:47
+msgid "One comment so far"
+msgstr "1件のコメント"
+
+#: content-gallery.php:36 content-image.php:32 content-quote.php:22
+#: content-video.php:32 content.php:47
+msgid "View all % comments"
+msgstr "全 % 件のコメントを表示"
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: content-none.php:18
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</a>し"
+"てください。"
+
+#: content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+"ご指定の検索条件に合う投稿がありませんでした。他のキーワードでもう一度検索し"
+"てみてください。"
+
+#: content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#. #-#-#-#-#  twentythirteen.pot (Twenty Thirteen 0.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:20
+msgid "http://wordpress.org/"
+msgstr "http://ja.wordpress.org/"
+
+#: footer.php:20
+msgid "Semantic Personal Publishing Platform"
+msgstr "セマンティックなパブリッシングツール"
+
+#: footer.php:20
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: functions.php:88
+msgid "Navigation Menu"
+msgstr "ナビゲーションメニュー"
+
+#: functions.php:127
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:133
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:213
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: functions.php:228
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:230
+msgid "Appears on posts and pages"
+msgstr "投稿と固定ページに表示されます。"
+
+#: functions.php:238
+msgid "Footer Widget Area"
+msgstr "フッターウィジェットエリア"
+
+#: functions.php:240
+msgid "Appears in the footer section of the site"
+msgstr "サイトのフッターセクションに表示されます。"
+
+#: functions.php:265
+msgid "Posts navigation"
+msgstr "投稿ナビゲーション"
+
+#: functions.php:269
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 過去の投稿"
+
+#: functions.php:273
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "新しい投稿 <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:301
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#: functions.php:304
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: functions.php:305
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:339
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: functions.php:357
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: functions.php:364
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: functions.php:372
+msgid "Reply"
+msgstr "返信"
+
+#: functions.php:394
+msgid "Sticky"
+msgstr "固定表示"
+
+#: functions.php:400 functions.php:406
+msgid ", "
+msgstr ", "
+
+#: functions.php:415
+msgid "View all posts by %s"
+msgstr "%s の投稿をすべて表示"
+
+#: functions.php:434
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: header.php:49
+msgid "Menu"
+msgstr "メニュー"
+
+#: header.php:50
+msgid "Skip to content"
+msgstr "コンテンツへ移動"
+
+#: image.php:57
+msgid ""
+"<span class=\"attachment-meta\">Published on <time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" "
+"rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+"<span class=\"attachment-meta\">公開日時:<time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time> <a href=\"%3$s\" title=\"%4$s へ戻る\" rel=\"gallery\">"
+"%5$s</a></span>"
+
+#: image.php:83
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:84
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/custom-header.php:48
+msgctxt "header image description"
+msgid "Circle"
+msgstr ""
+
+#: inc/custom-header.php:53
+msgctxt "header image description"
+msgid "Diamond"
+msgstr ""
+
+#: inc/custom-header.php:58
+msgctxt "header image description"
+msgid "Star"
+msgstr ""
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "assistive text"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: tag.php:21
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: taxonomy-post_format.php:23
+msgid "%s Archives"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Thirteen"
+msgstr "Twenty Thirteen"
+
+#. Theme URI of the plugin/theme
+msgid "http://wordpress.org/extend/themes/twentythirteen"
+msgstr "http://wordpress.org/extend/themes/twentythirteen"
+
+#. Description of the plugin/theme
+msgid ""
+"The 2013 theme for WordPress takes us back to the blog, featuring a full "
+"range of post formats, each displayed beautifully in their own unique way. "
+"Design details abound, starting with a gorgeous color scheme and matching "
+"header images, optional display fonts for beautiful typography, and a wide "
+"layout that looks great on large screens yet remains device-agnostic and is "
+"readable on any device."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "WordPress チーム"
+
+#. Tags of the plugin/theme
+msgid ""
+"black, brown, orange, tan, white, light, one-column, two-columns, right-"
+"sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-"
+"images, microformats, post-formats, rtl-language-support, sticky-post, "
+"translation-ready"
+msgstr ""
