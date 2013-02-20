@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2013-02-20 01:32+0900\n"
+"PO-Revision-Date: 2013-02-20 23:52+0900\n"
 "Last-Translator: \n"
 "Language-Team: Odyssey from WordPress Japanse Translation Team <odysseygate"
 "+poedit@gmail.com>\n"
@@ -71,7 +71,6 @@ msgid "Category Archives: %s"
 msgstr "カテゴリー別アーカイブ: %s"
 
 #: comments.php:27
-#, fuzzy
 msgctxt "comments title"
 msgid "One thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
@@ -266,7 +265,7 @@ msgstr "%s の投稿をすべて表示"
 #: functions.php:434
 msgctxt "1: post format name. 2: date"
 msgid "%1$s on %2$s"
-msgstr ""
+msgstr "フォーマット: %1$s | 投稿日: %2$s"
 
 #: header.php:49
 msgid "Menu"
@@ -288,53 +287,53 @@ msgstr ""
 
 #: image.php:83
 msgid "<span class=\"meta-nav\">&larr;</span> Previous"
-msgstr ""
+msgstr "<span class=\"meta-nav\">&larr;</span> 前へ"
 
 #: image.php:84
 msgid "Next <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "次へ <span class=\"meta-nav\">&rarr;</span>"
 
 #: inc/custom-header.php:48
 msgctxt "header image description"
 msgid "Circle"
-msgstr ""
+msgstr "サークル"
 
 #: inc/custom-header.php:53
 msgctxt "header image description"
 msgid "Diamond"
-msgstr ""
+msgstr "ダイアモンド"
 
 #: inc/custom-header.php:58
 msgctxt "header image description"
 msgid "Star"
-msgstr ""
+msgstr "スター"
 
 #: search.php:18
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "検索結果: %s"
 
 #: searchform.php:11
 msgctxt "assistive text"
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #: searchform.php:12
 msgctxt "placeholder"
 msgid "Search &hellip;"
-msgstr ""
+msgstr "検索 &hellip;"
 
 #: searchform.php:13
 msgctxt "submit button"
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #: tag.php:21
 msgid "Tag Archives: %s"
-msgstr ""
+msgstr "タグ別アーカイブ: %s"
 
 #: taxonomy-post_format.php:23
 msgid "%s Archives"
-msgstr ""
+msgstr "%s アーカイブ"
 
 #. Theme Name of the plugin/theme
 msgid "Twenty Thirteen"
@@ -353,6 +352,11 @@ msgid ""
 "layout that looks great on large screens yet remains device-agnostic and is "
 "readable on any device."
 msgstr ""
+"2013年の WordPress テーマはわたしたちをブログへと引き戻し、領域をいっぱいに"
+"使って投稿フォーマットを目立たせ、フォーマットそれぞれを独自の方法で美しく表"
+"示します。デザイン豊かで、ゴージャスなカラースキームとマッチしたヘッダー画像"
+"に端を発し、美しいタイポグラフィを表示するオプションのフォント、大画面で映"
+"え、端末不問でかつどの端末でも読みやすいワイドレイアウトになっています。"
 
 #. Author of the plugin/theme
 msgid "the WordPress team"
@@ -365,3 +369,7 @@ msgid ""
 "images, microformats, post-formats, rtl-language-support, sticky-post, "
 "translation-ready"
 msgstr ""
+"黒、茶、オレンジ、小麦色、白、明るい、1カラム、2カラム、右にサイドバー、可変"
+"幅、カスタムヘッダー、カスタムメニュー、エディタースタイル、アイキャッチ画"
+"像、マイクロフォーマッツ、投稿フォーマット、右横書き言語のサポート、固定投"
+"稿、翻訳に対応"
